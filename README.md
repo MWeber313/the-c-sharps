@@ -19,3 +19,7 @@ reading student data from a file and comparing it to user input
 # apu
 
 small commerce simulator, able to add items to basket, shop with currency
+
+# clancy (scratch work)
+
+this is where any notes, learning-to-learn projects, or other scratch work goes
