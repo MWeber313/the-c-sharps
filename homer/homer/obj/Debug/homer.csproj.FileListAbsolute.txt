@@ -1,0 +1,8 @@
+C:\Users\mackw\Documents\GitProjects\the-c-sharps\homer\homer\bin\Debug\homer.exe.config
+C:\Users\mackw\Documents\GitProjects\the-c-sharps\homer\homer\bin\Debug\homer.exe
+C:\Users\mackw\Documents\GitProjects\the-c-sharps\homer\homer\bin\Debug\homer.pdb
+C:\Users\mackw\Documents\GitProjects\the-c-sharps\homer\homer\obj\Debug\homer.csproj.AssemblyReference.cache
+C:\Users\mackw\Documents\GitProjects\the-c-sharps\homer\homer\obj\Debug\homer.csproj.SuggestedBindingRedirects.cache
+C:\Users\mackw\Documents\GitProjects\the-c-sharps\homer\homer\obj\Debug\homer.csproj.CoreCompileInputs.cache
+C:\Users\mackw\Documents\GitProjects\the-c-sharps\homer\homer\obj\Debug\homer.exe
+C:\Users\mackw\Documents\GitProjects\the-c-sharps\homer\homer\obj\Debug\homer.pdb
